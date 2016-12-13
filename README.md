@@ -42,34 +42,48 @@ Things you will need to get this to work:
 >>>>>>> origin/master
 
 #### Step 2: Laser Cutting the Case and assembling
-1. Laser cut the files “Case Top - circles.ai” and “Case.ai” on wood and as shown in figures 2.1 and 2.2 below.
+2.1 Laser cut the files “Case Top - circles.ai” and “Case.ai” on wood and as shown in figures 2.1 and 2.2 below.
 
 ![0](https://cloud.githubusercontent.com/assets/6739924/21127708/1b1b5e9a-c0c3-11e6-92e9-837c5ccfa2c8.jpg)
-![2 2](https://cloud.githubusercontent.com/assets/6739924/21127711/1b1cfe9e-c0c3-11e6-86cd-361d1396044c.jpg)
+Figure 2.1
 
-2. Cut circles out of an acrylic as well as shown below in figures 2.3 and 2.4. Stick it to the fabric stuck below the case top as shown in fig 2.3. Stick the wooden circles on the top of the case top as shown in figures 2.1 and 2.4. 
+![2 2](https://cloud.githubusercontent.com/assets/6739924/21127711/1b1cfe9e-c0c3-11e6-86cd-361d1396044c.jpg)
+Figure 2.2
+
+2.2 Cut circles out of an acrylic as well as shown below in figures 2.3 and 2.4. Stick it to the fabric stuck below the case top as shown in fig 2.3. Stick the wooden circles on the top of the case top as shown in figures 2.1 and 2.4. 
 
 ![2](https://cloud.githubusercontent.com/assets/6739924/21127710/1b1d0060-c0c3-11e6-9e21-5b767dd26784.jpg)
-![2 1](https://cloud.githubusercontent.com/assets/6739924/21127712/1b1d3990-c0c3-11e6-85c9-04bce45e8836.jpg)
+Figure 2.3
 
-3. Assemble the laser cut wooden case as shown in figures 2.5, 2.6 and 2.7 below.
+![2 1](https://cloud.githubusercontent.com/assets/6739924/21127712/1b1d3990-c0c3-11e6-85c9-04bce45e8836.jpg)
+Figure 2.4
+
+2.3. Assemble the laser cut wooden case as shown in figures 2.5, 2.6 and 2.7 below.
 
 ![4](https://cloud.githubusercontent.com/assets/6739924/21127714/1b2d2d82-c0c3-11e6-926b-a47cfd3f118c.jpg)
+Figure 2.5
+
 ![3](https://cloud.githubusercontent.com/assets/6739924/21127713/1b1f7070-c0c3-11e6-9190-4ce904a7b769.jpg)
+Figure 2.6
+
 ![1](https://cloud.githubusercontent.com/assets/6739924/21127709/1b1bf63e-c0c3-11e6-80f7-863909df62d3.jpg)
+Figure 2.7
 
-4. Laser cut the “MotorSupport.ai” and “GearRack.ai” files on an acrylic. Assemble and glue the motor support to the back side inside the box (Figure 2.5 and 2.6).
+2.4. Laser cut the “MotorSupport.ai” and “GearRack.ai” files on an acrylic. Assemble and glue the motor support to the back side inside the box (Figure 2.5 and 2.6).
 
-5. The gear and rack are to be attached to the motor to move rack and it hits the popup red and blue circles to make it move up and down. Cut the rack into small pieces and attach the appropriate length to the motor to have adequate movement to push the popup circles at the top of the box.
+2.5. The gear and rack are to be attached to the motor to move rack and it hits the popup red and blue circles to make it move up and down. Cut the rack into small pieces and attach the appropriate length to the motor to have adequate movement to push the popup circles at the top of the box.
 
 #### Step 3: Assembling the circuit
 
-1. Connect the circuit diagram as shown in the below figures 2.8 and 2.9. 
+3.1. Connect the circuit diagram as shown in the below figures 2.8 and 2.9. 
 
 ![5](https://cloud.githubusercontent.com/assets/6739924/21127715/1b2d3642-c0c3-11e6-9019-07ab615fad38.jpg)
-![6](https://cloud.githubusercontent.com/assets/6739924/21127716/1b2d6edc-c0c3-11e6-9cca-d6630cb3ffe2.jpg)
+Figure 2.8
 
-2. Connect the data (Orange) wire from the motors to D0 and D1 pins of photon. Connect the ground wires (brown) to the ground pin of the photon and the supply (Red wire) to the Vin pin of photon.
+![6](https://cloud.githubusercontent.com/assets/6739924/21127716/1b2d6edc-c0c3-11e6-9cca-d6630cb3ffe2.jpg)
+Figure 2.9
+
+3.2. Connect the data (Orange) wire from the motors to D0 and D1 pins of photon. Connect the ground wires (brown) to the ground pin of the photon and the supply (Red wire) to the Vin pin of photon.
 
 
 
