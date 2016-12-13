@@ -29,10 +29,17 @@ Things you will need to get this to work:
 ### Installing
 
 #### Step 1: Flashing code to the photon
+<<<<<<< HEAD
 1. Download the project folder from the github repository.
 2. Copy the code from the AmbientWorld.ino file.
 3. Go to the build.particle.io website and create a new project and paste the code. Compile it and flash it to your photon.
 4. Now your photon has the code to make the popup box work.
+=======
+1.	Download the project folder from the github repository.
+2.	Copy the code from the AmbientWorld.ino file.
+3.	Go to the build.particle.io website and create a new project and paste the code. Compile it and flash it to your photon.
+4.	Now your photon has the code to make the popup box work.
+>>>>>>> origin/master
 
 #### Step 2: Laser Cutting the Case and assembling
 1. Laser cut the files “Case Top - circles.ai” and “Case.ai” on wood and as shown in figures 2.1 and 2.2 below.
